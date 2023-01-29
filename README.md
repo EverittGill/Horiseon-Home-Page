@@ -4,14 +4,9 @@ README.MD
 
 ## Description
 
-<!-- Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide: -->
 
 This webpage was created to be a home page for Horiseon. A digital marketing firm specializing in SEO, online reputation management, and social media marketing. This page will serve to be the the first thing visitors see when choosing to look into Horiseon as an advertising firm.
 
-<!-- - What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn? -->
 
 - This page was created to be used as a primary landing page if a potential client searches for Horiseon on a search engine or follows a link from one of our own advertisements promoting Horiseon. It will also serve to be a home page for other web pages about Horiseon.
 

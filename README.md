@@ -40,7 +40,8 @@ Once the webpage has loaded click on the three links in the top right to view th
 ## Credits
 
 Developer- Everitt Gill
-    Github- https://github.com/EverittGill
+
+Github- https://github.com/EverittGill
 
 Tutorials followed- GA Tech fullstack development bootcamp resources and classes
 

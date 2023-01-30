@@ -29,7 +29,6 @@ There is no need to install anything to view this website beyond a browser. Copy
 Upon following the link you will see this as the top of the page
     ![Home Page](Screenshot 2023-01-29 at 6.39.39 PM.png)
 
-
 ## Usage
 
 

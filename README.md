@@ -27,7 +27,10 @@ There is no need to install anything to view this website beyond a browser. Copy
 
 
 Upon following the link you will see this as the top of the page
-    [Home Page](https://github.com/EverittGill/Horiseon-Home-Page]/blob/main/Screenshot 2023-01-29 at 6.39.39 PM.png)
+    ![Home Page](https://github.com/EverittGill/Horiseon-Home-Page/blob/main/Screenshot%202023-01-29%20at%206.39.39%20PM.png)
+    
+
+
 
 ## Usage
 

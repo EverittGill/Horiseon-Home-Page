@@ -53,6 +53,5 @@ MIT License
 ## Features
 
 - Functional links
-- One media query
 - Beautiful design
 
